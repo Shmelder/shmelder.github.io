@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [University of Washington Biostatistics Department](https://www.biostat.washington.edu/) currently working under the direction of [Marco Carone](http://faculty.washington.edu/mcarone/about.html) and [Alex Luedtke](http://www.alexluedtke.com/).
+I am a PhD student in the [University of Washington Biostatistics Department](https://www.biostat.washington.edu/) currently working under the direction of [Marco Carone](http://faculty.washington.edu/mcarone/about.html) and [Alex Luedtke](http://www.alexluedtke.com/). I am currently working on developing a method for variable screening using linear or non-linear association measures.
 
 I am also currently working as a research assitant to [Martina Morris](http://faculty.washington.edu/morrism/) assisting with infectious disease modeling.
 

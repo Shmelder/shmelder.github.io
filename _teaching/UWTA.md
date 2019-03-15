@@ -1,8 +1,8 @@
- ---
+---
 title: "TA at University of Washington"
 collection: teaching
 type: "Discussion Section"
-permalink: /teaching/2017-winter-teaching-1
+permalink: /teaching/2017teaching_assistant
 venue: "University of Washington, Statistics"
 date: 2017-01-01
 location: "Seattle, Washington"
